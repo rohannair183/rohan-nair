@@ -51,9 +51,9 @@ params:
     title: "Rohan Nair"
     subtitle: "..."
 
-    imageUrl: ""
-    imageWidth: 220
-    imageHeight: 220
+    imageUrl: "./home/rohan-pic.jpeg"
+    imageWidth: 300
+    imageHeight: 300
     # buttons:
     #   - name: Resume
     #     url: ""
@@ -70,11 +70,9 @@ params:
     - name: "email"
       url: "mailto:rohan.nair@uwaterloo.ca"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/rohan-nair-108771212/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/rohannair183"
 
   # text search
   fuseOpts:
